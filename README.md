@@ -1,7 +1,7 @@
 ## 🧠 Project Overview
 
 Spam messages are unwanted and often fraudulent communications.  
-This project uses **Natural Language Processing (NLP)** and **Machine Learning** techniques to automatically detect spam SMS messages.
+This project uses **Machine Learning** techniques to automatically detect spam SMS messages.
 
 The model is trained offline and deployed as an interactive web application using **Streamlit**.
 
